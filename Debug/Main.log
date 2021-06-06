@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\School\CSCE-1102\Projects for CS110\Main\Main\main.cpp(26,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\School\CSCE-1102\Projects for CS110\Main\Main\main.cpp(61,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\School\CSCE-1102\Projects for CS110\Main\Main\main.cpp(61,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Main.vcxproj -> D:\School\CSCE-1102\Projects for CS110\Main\Debug\Main.exe
